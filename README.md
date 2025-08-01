@@ -1,6 +1,6 @@
 ## 🎯 Guessing Game
 
-**Repo:** [rust-guessing-game](https://github.com/yourusername/rust-guessing-game)
+**Repo:** [rust-guessing-game](https://github.com/megabyte-webdev/rust-guessing-game)
 
 A simple command-line game built in Rust where the player tries to guess a randomly generated number.
 
